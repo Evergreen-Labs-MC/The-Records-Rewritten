@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="pack.png" alt="Piano Music Overhaul Logo" width="128" />
+  <img src="pack.png" alt="The Records Rewritten by Nuttyeligaming2.0 Logo" width="128" />
 
   # The Records Rewritten by NuttyeliGaming2.0
 
