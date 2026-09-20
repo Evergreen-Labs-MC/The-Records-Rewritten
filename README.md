@@ -7,7 +7,7 @@
 
   **I put songs into minecraft with the help of my friends. I put a lot of hard work into this so I hope you like this!**
 
-  [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepacks/the-records-rewritten-by-nuttyeligaming2.0)
+  [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/the-records-rewritten-by-nuttyeligaming2.0)
 
 </div>
 
